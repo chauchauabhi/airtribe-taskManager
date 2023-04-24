@@ -1,0 +1,21 @@
+{
+    "tasks": [
+      {
+        "name": "get homeWorkDone",
+        "taskId": 1,
+        "taskPriority": "0"
+      },
+      {
+        "name": "watch tv",
+        "taskId": 2,    
+        "taskPriority": "3"
+      },
+      {
+        "name": "Go to gym",
+        "taskId": 3,
+        "taskPriority": "2"
+      }
+      
+    ]
+  }
+  
